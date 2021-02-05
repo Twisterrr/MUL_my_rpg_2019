@@ -55,7 +55,7 @@ fire, rain, snow. . .).
 * Use scripting to describe entities.
 * Have a map editor.
 
-## Would :
+### Would :
 * Your program would be a real video game.
 
 ## Authors
