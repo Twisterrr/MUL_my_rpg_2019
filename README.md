@@ -63,3 +63,4 @@ fire, rain, snow. . .).
 * **Clément Bérard** ([GitHub](https://github.com/Twisterrr) / [LinkedIn](https://www.linkedin.com/in/clementberard/))
 * **Robert Harakaly** ([GitHub](https://github.com/RobertSparadrap) / [LinkedIn](https://www.linkedin.com/in/robert-harakaly-3b19391a1/))
 * **Hugo Suzanne** ([LinkedIn](https://www.linkedin.com/in/hugo-s-a58536a5/))
+* **Youssra El-ajli** ([GitHub](https://github.com/kurepu06) / [LinkedIn](https://www.linkedin.com/in/youssra-el-ajli/))
