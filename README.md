@@ -7,7 +7,7 @@ This is a Simple CSFML Game made in my first Year at Epitech school. the Pokémo
 
 ## How to use Defender?
 
-For Start Game : ./rpg (**need make re**)
+For Start Game : 
      Make re
      ./rpg
 
