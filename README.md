@@ -1,15 +1,21 @@
 # My RPG
 Epitech Project, RPG
 
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=twisterrr.mul_my_rpg_2029&left_color=purple&right_color=grey)
+
 ![Screenshot from 2021-02-05 13-41-27](https://user-images.githubusercontent.com/60510584/107039151-ca925680-67bd-11eb-8d3d-1a128e83c21d.png)
 
 This is a Simple CSFML Game made in my first Year at Epitech school. the PokémonGenerations project goal was to create a mini game in C using CSFML, but he's now replaced by another project, the "my_rpg" where the goal is to make a RPG game.
 
-## How to use Defender?
+## How to use RPG ?
 
-For Start Game : 
-     Make re
-     ./rpg
+<p align="justify"> 
+Compile the makefile (make) and add some arithmetic expression like this !
+</p>
+<pre>
+ $> make re
+ $> ./rpg
+</pre>
 
 ## Requirements
 ### Mandatory :
