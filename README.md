@@ -10,7 +10,7 @@ This is a Simple CSFML Game made in my first Year at Epitech school. the Pokémo
 ## How to use RPG ?
 
 <p align="justify"> 
-Compile the makefile (make) and add some arithmetic expression like this !
+Compile the makefile (make) !
 </p>
 <pre>
  $> make re
